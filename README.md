@@ -1,7 +1,7 @@
 
 
 
-[![Build Status](https://travis-ci.org/ScPo-CompEcon/HW-unconstrained.svg?branch=master)](https://travis-ci.org/ScPo-CompEcon/HW-unconstrained)
+[![Build Status](https://travis-ci.org/benoitrauturier/HW-unconstrained.svg?branch=master)](https://travis-ci.org/benoitrauturier/HW-unconstrained.svg?branch=master)
 
 
 ## Questions branch
